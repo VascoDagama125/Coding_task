@@ -43,8 +43,9 @@ int list( ){
 	else if (C[i] != C[i]){
 		bool is prime(C[i])
 	}
-	else cout<<"brak takich samych liczb"
+	else cout<<"brak takich samych liczb";
 	 }
+	return C[i];
 }
 int main(){
 	A[0]=2;
